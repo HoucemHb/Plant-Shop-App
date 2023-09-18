@@ -1,7 +1,8 @@
 # plant_shop_app
 
 A Plant Shop App Flutter project using Riverpod for state management
-![Uploading Plants-1 (2).png…]()
+![App Design From Figma](https://github.com/HoucemHb/Plant-Shop-App/blob/master/Plants-1%20(3).png?raw=true)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
